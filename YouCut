@@ -1,6 +1,6 @@
 [
   {
-    "appName": "YouCut",
+    "appName": "You Cut",
     "packageName": "com.camerasideas.trimmer",
     "versionCode": 1219,
     "updateUrl": "https://t.me/ABEZOFFICIAL",
@@ -8,7 +8,7 @@
     "description": "Your app version is too old and no longer supported. Please update to the latest version.",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2030-08-01",
+    "expiryDate": "2028-08-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
